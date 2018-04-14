@@ -1,0 +1,26 @@
+ARTIST
+
+Should show all all paintings
+Should be able to add a new painting which creates a new instance of painting
+Should show all galleries they are in
+Should show worth of artist through values of all the paintings they have
+
+
+PAINTING
+
+Should show artist
+Should be able to change the current owner name
+Should add to a gallery
+Should be able to change the current gallery
+Should show the current owner
+Should show the current gallery
+Should show the current value
+Should update owner and value through a sale method
+
+
+GALLERY
+
+Should show all paintings
+Should show all artists
+Should show total value of all art
+Should show location
